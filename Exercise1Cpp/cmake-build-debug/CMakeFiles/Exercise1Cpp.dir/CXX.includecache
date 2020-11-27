@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/szymon.szpakowski/CLionProjects/Exercise1Cpp/main.cpp
+iostream
+-
+cmath
+-
+omp.h
+-
+

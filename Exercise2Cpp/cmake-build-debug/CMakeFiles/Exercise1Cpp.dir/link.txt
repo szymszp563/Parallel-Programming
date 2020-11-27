@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Exercise1Cpp.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Exercise1Cpp.dir/objects.a @CMakeFiles\Exercise1Cpp.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  -std=c++11 -fopenmp -g   -Wl,--whole-archive CMakeFiles\Exercise1Cpp.dir/objects.a -Wl,--no-whole-archive  -o Exercise1Cpp.exe -Wl,--out-implib,libExercise1Cpp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Exercise1Cpp.dir\linklibs.rsp
